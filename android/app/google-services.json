@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448059775465",
+    "project_id": "idonatelife-clean-archit-dcc7e",
+    "storage_bucket": "idonatelife-clean-archit-dcc7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448059775465:android:df8809db5aad0e27c19378",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLAuMAsmu1vwAKM5tTPzeBKr_udMmn_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

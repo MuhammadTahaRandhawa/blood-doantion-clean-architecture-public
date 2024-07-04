@@ -1,0 +1,445 @@
+{
+    "splash_largeButton": "Get Started",
+    "splash_loginButtonText1": "Already have an account?",
+    "splash_loginButtonText2": " SignIn",
+    "splash_slider1title": "Donate blood, Save lives!",
+    "splash_slider1content": "Welcome to iDonate Life 🩸, a mobile app that connects blood donors with those in need.",
+    "splash_slider2title": "Donate blood and make a difference",
+    "splash_slider2content": "Every blood donation can save up to three lives. Become a hero in your community and join our mission.",
+    "splash_slider3title" : "Need blood? Find donors near you.",
+    "splash_slider3content" : "Search for compatible blood donors by blood type, location, and other criteria. Donate 🩸 makes it easy to find the help you need.",
+    "splash_slider4title" : "Donating blood is safe and simple.",
+    "splash_slider4content" : "We'll guide you through every step of the donation process, from scheduling an appointment to understanding eligibility requirements.",
+    "splash_slider5title" : "Donate and Be Recognized",
+    "splash_slider5content" : "We value your selfless act! After every successful blood donation, 🩸 rewards you with a digital certificate acknowledging your Donate contribution.",
+    "splash_slider6title" : "Pakistan's first blood donation app with cutting-edge features",
+    "splash_slider6content" : "We're proud to be Pakistan's first blood donation app offering a comprehensive and user-friendly experience.",
+    "splash_slider7title" : "Let's save lives together.",
+    "splash_slider7content" : "Download the iDonate Life app and register today to become a blood donor or find blood easily. Together, we can make a difference!",
+    "basicInfo_Appbar" : "Basic Information",
+    "basicInfo_fullName" : "Enter Full Name",
+    "basicInfo_CNIC" : "Enter CNIC without (-)",
+    "basicInfo_PhNum" : "Enter Phone No",
+    "basicInfo_DOB" : "Enter Date of Birth",
+    "basicInfo_Gender" : "Choose Gender",
+    "basicInfo_Male" : "Male",
+    "basicInfo_female" : "Female",
+    "basicInfo_chooseBlood" : "Choose Blood Group",
+    "basicInfo_BecomeDonor" : "Become a donor in IDonate Life",
+    "basicInfo_submitBtn" : "Submit",
+    "bloodCenterApoint_appbar" : "Schedule Appointment",
+    "bloodCenterApoint_fullName" : "Enter Full Name",
+    "bloodCenterApoint_PhNo" : "Enter Phone No",
+    "bloodCenterApoint_BloodBags" : "Blood Bags",
+    "bloodCenterApoint_case" : "Case",
+    "bloodCenterApoint_SubmitBtn" : "Submit",
+    "bloodCenterdetail_reportSubmit" : "Report successfuly submitted",
+    "bloodCenterdetail_SubmitError" : "Error Submitting Report",
+    "bloodCenterdetail_Name" : "Name",
+    "bloodCenterdetail_PhNo" : "Phone Number",
+    "bloodCenterdetail_Address" : "Address",
+    "bloodCenterdetail_ScheduleAppointment" : "Schedule Appointment",
+    "bloodCenterPage_NotFindCenter" : "Did not find any blood center in this area at the moment",
+    "bloodCenterCard_view" : "View",
+    "bloodCenterCard_Schedule" : "Schedule",
+    "bloodCenterDetailInfo_RatingCaluclated" : "How ratings are calculated",
+    "bloodCenterDetailInfo_RatingSolution" : "Ratings are based on recent reviews from people in your region",
+    "bloodCenterDetailInfo_OkBtn" : "OK",
+    "bloodCenterDetailInfo_time" : "time",
+    "bloodHeader_bloodCenter" : "Blood Center",
+    "bloodCenterMap_ErrorImage" : "Error Fetching Map Image",
+    "bloodDonationDetail_reportSubmit" : "Report successfuly submitted",
+    "bloodDonationDetail_SubmitError" : "Error Submitting Report",
+    "bloodDonationDetail_Name" : "Name",
+    "bloodDonationDetail_bloodGroup" : "Blood Group",
+    "bloodDonationDetail_PhNo" : "Phone Number",
+    "bloodDonationDetail_address" : "Address",
+    "bloodDonationDetail_askHelp" : "Ask Help",
+    "bloodDonationPage_NotFindDonation" : "Did not find any donation in this area at the moment, try adjusting your search",
+    "donationGuid_Guidline" : "Donation Guidelines",
+    "donationGuid_ReadCarefully" : "Read carefully and accept all the terms and conditions",
+    "donationGuid_AgreeCont" : "Agree and Continue",
+    "bloodDonationcard_view" : "View",
+    "bloodDonationcard_AskHelp" : "Ask Help",
+    "bloodDonationHeader_donorAvailable" : "Donor Available",
+
+    "donationInfo_ratingCaluclated" : "How ratings are calculated",
+    "donationInfo_RatingSolution" : "Ratings are based on recent reviews from people in your region",
+    "donationInfo_okBtn" : "OK",
+    "donationLocationMap_imgError" : "Error Fetching Map Image",
+
+
+    "bloodMapPage_appbar" : "Blood Map",
+
+
+    "customMap_findRoute" : "Find Route",
+    "customMap_viewDetail" : "View Details",
+
+
+    "addNewReq_appBar" : "New Request",
+    "addNewReq_fullName" : "Enter Full Name",
+    "addNewReq_PhNo" : "Phone Number",
+    "addNewReq_bloodBag" : "Blood Bags",
+    "addNewReq_hospital" : "Hospital (Optional)",
+    "addNewReq_chooseLocation" : "Choose a Location",
+    "addNewReq_submitBtn" : "Submit",
+
+    "bloodReqDetail_ReportSubmit" : "Report successfuly submitted",
+    "bloodReqDetail_submitError" : "Error submitting a report",
+    "bloodReqDetail_name" : "Name",
+    "bloodReqDetail_bloodGroup" : "Blood Group",
+    "bloodReqDetail_PhNo" : "Phone Number",
+    "bloodReqDetail_address" : "Address",
+    "bloodReqDetail_hospital" : "Hospital",
+    "bloodReqDetail_help" : "Help",
+
+    "bloodReqPage_appBar" : "Blood Requests",
+    "bloodReqPage_notFindReq" : "Did not find any request in this area at the moment, try adjusting your search",
+
+    "mybloodReqPage_appBar" : "My Blood Requests",
+    "mybloodReqPage_notHaveReq" : "Oops you don't have any blood request, Try adding One",
+
+
+    "selectReqLoc_selectLoc" : "Select Request Location",
+    "selectReqLoc_done" : "Done",
+
+
+
+    "bloodReqCard_view" : "View",
+    "bloodReqCard_select" : "Select",
+    "bloodReqCard_help" : "Help",
+
+
+    "bloodReqheader_newReq" : "New Requests",
+    "bloodReqheader_myReq" : "My Requests",
+
+    "maxLimChk_reachLim" : "Maximum limit reached",
+    "maxLimChk_twiceAReq" : "You can only request blood twice a day",
+    "maxLimChk_okBtn" : "Ok",
+
+
+    "reqInfo_calculatedRating" : "How ratings are calculated",
+    "reqInfo_ratingBased" : "Ratings are based on recent reviews from people in your region",
+    "reqInfo_okBtn" : "Ok",
+
+
+    "reqLocMap_errorfetchImg" : "Error Fetching Map Image",
+
+
+    "reqLocInputMap_chooseloc" : "Choose A Location",
+
+
+    "chatPage_appBar" : "Blood Chat",
+    "chatPage_noChat" : "You don't have any chat yet",
+
+    "msgPage_reportSubmit" : "Report successfuly submitted",
+    "msgPage_submitError" : "Error submitting a report",
+    "msgPage_sendMsg" : "Send A Message to Start Conversation",
+    "msgPage_typeMsg" : "Type a message...",
+    "msgPage_needHelp" : "Needs Your Help",
+    "msgPage_willingHelp" : "is willing to help you",
+
+    "chatCard_you" : "You",
+
+
+    "donMsgBubble_askHelp" : "You asked for help",
+    "donMsgBubble_imgError" : "Error Fetching Map Image",
+    "donMsgBubble_viewBtn" : "View",
+    "donMsgBubble_helpBtn" : "Help",
+    "donMsgBubble_wantHelp" : "wants to help you",
+    "donMsgBubble_acceptDonation" : "Accept Donation",
+
+    "donMsgBubble_reminder" : "Reminder",
+    "donMsgBubble_haveAppointment" : "you have an appointment now with",
+    "appointments_page_noAppointment" : "No Appointment in this section",
+
+
+    "faqData_qes1" : "Who can donate blood?",
+    "faqData_ans1" : "A blood donor must: be in good general health be aged 18 years or older but less than 60 years weigh at least 45 Kg have a hemoglobin level of at least 12.5 g/dl not have donated blood in the last 3 months",
+    "faqData_qes2" : "Who cannot donate blood?",
+    "faqData_ans2" : "Blood must not be donated if a person is suffering from any of these conditions: Cold/ fever in the past 1 week Under treatment with antibiotics or any other medication Cardiac problems, hypertension, epilepsy, diabetes (on insulin therapy), history of cancer, chronic kidney or liver disease, bleeding tendencies, venereal disease Major surgery in the last 6 months or minor surgery in the past 3 months Jaundice or hepatitis or positivity for Hepatitis B or C viruses Tooth extraction less than 3 days back or dental surgery less than 1 month back Fainting attacks during the last donation On therapy with regular blood transfusions Sharing needles to inject drugs/ having history of drug addiction Sexual relations with different partners or with a high risk individual Been tested positive for antibodies to HIV Any endocrinal problem Females should not donate blood during pregnancy. They can donate after 6 months following delivery and when they are not breast feeding Females should not donate blood if they are having heavy menstrual flow or menstrual cramps Miscarriage in the last 6 months",
+    "faqData_qes3" : "How does one make sure that the blood is safe for patients?",
+    "faqData_ans3" : "Some diseases can be transmitted through blood transfusion. Therefore, all donated blood is screened for transfusion transmissible diseases such as HIV, Hepatitis B, Hepatitis C, Syphilis and Malaria. Even with testing, sometimes infections are not detected, although the rate of detection is extremely good with better methods of testing (e.g. NAT).",
+    "faqData_qes4" : "How often can I donate blood?",
+    "faqData_ans4" : "It is safe to donate blood once in every three months.",
+    "faqData_qes5" : "Why do I have to wait 3 months before donating again?",
+    "faqData_ans5" : "Since blood contains iron (which is essential for making new red blood cells), donating blood more often than every 3 months causes the body to lose iron faster than it can be made up from iron-containing foods in our diet. As a result the donor could develop iron deficiency anemia, causing him/her to feel weak and tired.",
+    "faqData_qes6" : "Why is it important to donate blood?",
+    "faqData_ans6" : "Blood can be a life-saving therapy for patients. One unit of blood can save 4 lives (if it is separated into components). Healthy people should donate blood regularly and voluntarily to overcome shortage of blood for patients. It has been proven worldwide that voluntary donations are the safest of all kinds of donations.",
+    "faqData_qes7" : "Why are replacement/directed and paid donations not safe?",
+    "faqData_ans7" : "Replacement donations are donations in which the patient is asked to arrange blood for him/herself. If the blood group of the donor and the patient match, the blood is transfused (directed donations). If they do not match, the blood is stocked and a group-match blood is issued (replacement donations). Replacement donations have a higher rate of transfusion transmissible infections than voluntary donations. Paid donations are highly unsafe because they are usually given by people for ulterior motives (e.g. drug addicts) and have a very high rate of transfusion transmissible infections. Even the most sophisticated methods of testing available may fail to detect such infections. Therefore, it is important that voluntary donations by anonymous donors, for altruistic reasons are promoted.",
+    "faqData_qes8" : "What if I faint during a blood donation?",
+    "faqData_ans8" : "The likelihood of this happening is minimal. You should eat before donating and drink extra fluids, especially after donation.",
+    "faqData_qes9" : "Will a blood donation hurt?",
+    "faqData_ans9" : "Giving blood is not painful. You may feel a prick when the needle is inserted, which lasts only a few seconds.",
+    "faqData_qes10" : "Will I become weak if I donate frequently?",
+    "faqData_ans10" : "No. It is perfectly healthy to donate blood once every 3 months.",
+    "faqData_qes11" : "Will I get AIDS if I donate blood?",
+    "faqData_ans11" : "Absolutely not! All equipment used to collect blood are sterile. These items are used once and discarded.",
+    "faqData_qes12" : "What are the components of blood and how are they used?",
+    "faqData_ans12" : "There are four components in blood: red blood cells, white blood cells, platelets and plasma. Red blood cells supply oxygen to various parts of the body. White blood cells fight against disease or infections. Plasma carries nutrients, clotting factors and enzymes. Platelets help clot the blood to prevent excessive bleeding. Today, doctors transfuse individual blood components based upon the patient’s needs. Major categories of patient needs include: cancer therapy, organ transplants, accident victims and people undergoing elective surgical procedures.",
+    "faqData_qes13" : "How long can blood be stored?",
+    "faqData_ans13" : "Red cells - 35 days Platelets - 5 days Fresh frozen plasma - 1 year",
+    "faqData_qes14" : "How long does it take to give blood?",
+    "faqData_ans14" : "Typically only about one hour.",
+    "faqData_qes15" : "Which Blood Group can donate to which blood group?",
+    "faqData_ans15" : "O-: Universal donor (can donate to all blood groups: O-, O+, A-, A+, B-, B+, AB-, AB+)\nO+: Can donate to O+, A+, B+, AB+\nA-: Can donate to A-, A+, AB-, AB+\nA+: Can donate to A+, AB+\nB-: Can donate to B-, B+, AB-, AB+\nB+: Can donate to B+, AB+\nAB-: Can donate to AB- and AB+\nAB+: Universal recipient (can only donate to AB+)",
+    "faqData_qes16" : "Which Blood Group can recieve from which blood group?",
+    "faqData_ans16" : "O-: Can receive only from O-\nO+: Can receive from O- and O+\nA-: Can receive from O- and A-\nA+: Can receive from O-, O+, A-, A+\nB-: Can receive from O- and B-\nB+: Can receive from O-, O+, B-, B+\nAB-: Can receive from O-, A-, B-, AB-\nAB+: Universal recipient (can receive from all blood types: O-, O+, A-, A+, B-, B+, AB-, AB+)",
+    
+
+    "faqData_appBar" : "FAQ",
+
+    "homeTop_welcome" : "Welcome" ,
+    "homeTop_donatingGood" : "Donating blood is also good for donor's body",
+
+
+    "tutorial_appBar" : "Blood Donation Tutorial",
+    "tutorial_donationSteps" : "Blood Donation Steps",
+    "tutorial_donationStep1" : "1. Ensure you meet the eligibility criteria.",
+    "tutorial_donationStep2" : "2. Drink plenty of water and eat a healthy meal before donating.",
+    "tutorial_donationStep3" : "3. Bring a valid ID to the donation center.",
+    "tutorial_donationStep4" : "4. Complete a health questionnaire and physical check.",
+    "tutorial_donationStep5" : "5. Donate blood (takes about 10 minutes).",
+    "tutorial_donationStep6" : "6. Rest for a few minutes at the donation center.",
+    "tutorial_donationStep7" : "7. Enjoy refreshments and snacks provided.",
+    "tutorial_donationStep8" : "8. Drink plenty of fluids for the next 24 hours.",
+    "tutorial_donationStep9" : "9. Avoid strenuous activities and heavy lifting for the rest of the day.",
+    "tutorial_donationStep10" : "10. Keep the bandage on for a few hours and avoid using the donation arm for heavy lifting.",
+    "tutorial_donationStep11" : "11. If you feel lightheaded or dizzy, sit or lie down until you feel better.",
+    "tutorial_donationStep12" : "12. Contact the donation center if you experience any unusual symptoms.",
+
+
+    "aboutUser_noImg" : "No Image",
+    "aboutUser_msg" : "Message",
+
+
+    "certificatePage_certificate" : "Here is your certificate!",
+    "certificatePage_appBar" : "Blood Donation Certificate",
+    "certificatePage_gotCertificate" : "You have got a certificate",
+    "certificatePage_certificateOf" : "CERTIFICATE OF",
+    "certificatePage_savingContribution" : "LIFE SAVING CONTRIBUTION",
+    "certificatePage_selfnessContibutionq" : "Your selfless contribution helps save lives and brings hope to those in need. Thank you for your commitment to making a difference",
+    "certificatePage_iDonateLife" : "iDonate Life",
+    "certificatePage_bloodDonation" : "Blood Donation",
+    "certificatePage_date" : "Date:",
+    "certificatePage_share" : "Share",
+
+
+
+    "userProfile_dataUpdate" : "User Data Updated Successfully",
+    "userProfile_myProfile" : "My Profile",
+    "userProfile_name" : "Name",
+    "userProfile_phNo" : "Phone No",
+    "userProfile_dob" : "Date of Birth",
+    "userProfile_gender" : "Gender",
+    "userProfile_male" : "Male",
+    "userProfile_female" : "Female",
+    "userProfile_bGroup" : "Blood Group",
+    "userProfile_imgSource" : "Select Image Source",
+    "userProfile_camera" : "Camera",
+    "userProfile_gallery" : "Gallery",
+
+
+    "userToggle_contactInfo" : "Contact Info",
+    "userToggle_email" : "E-mail",
+    "userToggle_phNo" : "Phone No",
+    "userToggle_basicinfo" : "Basic Infomation",
+    "userToggle_dob" : "Date of Birth",
+    "userToggle_gender" : "Gender",
+    "userToggle_moreInfo" : "More Info",
+    "userToggle_address" : "Address",
+    "userToggle_bGroup" : "Blood Group",
+
+
+
+
+    "reviewToggle_allRating" : "Overall Rating",
+    "reviewToggle_baseOn" : "Based on",
+    "reviewToggle_reviews" : "Reviews",
+
+
+    "toggleprofile_about_me" : "About me",
+    "toggleprofile_about_user" : "About user",
+    "toggleprofile_userJourney" : "User Journey",
+    "toggleprofile_reviews" : "Reviews",
+
+
+    "toggleProView_pageNotExist" : "Page does not Exist",
+
+
+    "userJourney_appDate" : "appointmentDate",
+    "userJourney_participantName" :"ParticipantName",
+    "userJourney_bGroup" : "Blood group",
+    "userJourney_appType" : "appointmentType",
+    "userJourney_youDonateBlood" : "You donated blood to",
+    "userJourney_requestfrom" : "you requested blood from",
+
+
+    "notSetting_appBar" : "Notification Settings",
+
+    
+    "settingsType_notifcation" : "Notifications",
+    "settingsType_msgAppointment" : "Messages , Appointments",
+    "settingsType_theme" : "Theme",
+    "settingsType_availableAsDonor":"Available as donor",
+    "settingsType_appLanguage" : "App language",
+    "settingsType_contactUs" : "Contact Us",
+    "settingsType_chooseTheme" : "Choose Theme",
+    "settingsType_light" : "Light",
+    "settingsType_dark" : "Dark",
+    "settingsType_deviceTheme" : "Device Current",
+    "settingsType_chooseAppLanguage":"Choose App Language",
+    "settingsType_english" : "English",
+    "settingsType_urdu" : "Urdu",
+    
+
+
+    "setting_appBar" : "Settings",
+
+    "notSettingTile_notifcation" : "Notification",
+
+    "forgetPassPage_forgetPass" : "Forget Password",
+    "forgetPassPage_emailForReset" : "Please enter your email to reset the password",
+    "forgetPassPage_yourEmail" : "Your Email",
+    "forgetPassPage_resetPass" : "Reset Password",
+
+
+    "loginPage_signAs" : "Signed in as",
+    "loginPage_email" : "Email",
+    "loginPage_pass" : "Password",
+    "loginPage_forgetPass" : "Forgot password?",
+    "loginPage_logInBtn" : "Log In",
+    "loginPage_or" : "OR",
+    "loginPage_alreadyAccount" : "Didn't have an account yet?",
+
+
+    "newPassPage_resetComplete" : "Password reset completed",
+    "newPassPage_setNewPass" : "Set a new password",
+    "newPassPage_differPrevious" : "Create a new password. Ensure it differs from previous ones for security.",
+    "newPassPage_password" : "Password",
+    "newPassPage_enterNewPass" : "Enter new Password",
+    "newPassPage_confirmPass" : "Confirm Password",
+    "newPassPage_reEnterPass" : "Re-enter Password",
+    "newPassPage_passMustMatch" : "password must be matched",
+    "newPassPage_updatePass" : "Update Password",
+
+
+    "signupPage_email" : "Email",
+    "signupPage_pass" : "Password",
+    "signupPage_signupBtn" : "Sign Up",
+    "signupPage_alreadyAccount" : "Already have an account?",
+
+
+
+
+    "verifyCode_chkEmail" : "Check your email",
+    "verifyCode_sentLink" : "We sent a reset link to",
+    "verifyCode_enterCode" : "Enter the 5-digit code mentioned in the email",
+    "verifyCode_verifyCode" : "Verify Code",
+
+
+    "apponitDetail_no" : "N/A",
+    "apponitDetail_name" : "Name",
+    "apponitDetail_phNo" : "Phone No",
+    "apponitDetail_bGroup" : "Blood Group",
+    "apponitDetail_bloodBags" : "Blood Bags",
+
+
+    "myappointment_appBar" : "My Appointments",
+
+
+
+    "bloodAppointCard_userName" : "userName",
+    "bloodAppointCard_viewDetail" : "View Details",
+
+
+
+    "myAppointmentHome_myApp" : "My Appointments",
+    "myAppointmentHome_viewMoreBtn" : "View More",
+    "myAppointmentHome_noApponitment" : "No appointments for today",
+    "myAppointmentHome_no" : "No",
+    "myAppointmentHome_yes" : "Yes",
+    "myAppointmentHome_haveDonate" : "Have you donated blood to",
+    "myAppointmentHome_received" : "Have you received blood from",
+
+
+
+    "toogleAppointStatus_pending" : "pending",
+    "toogleAppointStatus_approve" : "Approved",
+    "toogleAppointStatus_inProgress" : "In Progress",
+    "toogleAppointStatus_complete" : "Completed",
+    "toogleAppointStatus_cancelled" : "Cancelled",
+
+
+    "commentpage_comnt" : "Comments",
+    "commentpage_writecomment" : "Write a Comment...",
+
+
+    "bottmnav_home" : "Home",
+    "bottmnav_request" : "Request",
+    "bottmnav_donation" : "Donations",
+    "bottmnav_center" : "Center",
+    "bottmnav_map" : "Map",
+    "bottmnav_bloodMap" : "Blood Map",
+
+
+
+    "appDrawer_noImg" : "No Image",
+    "appDrawer_profile" : "Profile",
+    "appDrawer_faq" : "FAQ",
+    "appDrawer_setting" : "Settings",
+    "appDrawer_appTutorial" : "Tutorial",
+    "appDrawer_certificate" : "Certificate",
+    "appDrawer_logOut" : "Log Out",
+    "appDrawer_logOutfrom" : "Logout From IDonateLife",
+    "appDrawer_sureToLogout" : "Are you sure you want to logout?",
+    "appDrawer_no" : "No",
+    "appDrawer_yes" : "Yes",
+
+
+
+    "reportPopBtn_report" : "Report",
+    "reportPopBtn_viewProfile" : "View Profile",
+    "reportPopBtn_selectreport" : "Select Report Type",
+    "reportPopBtn_cancle" : "Cancel",
+    "reportPopBtn_ok" : "OK" ,
+
+
+
+    "bloodShimmer_loading" : "Loading...",
+    "bloodShimmer_plzWait" : "Please Wait",
+
+
+    "bloodFilter_searchInside" : "Search Inside Radius",
+    "bloodFilter_searchBlood" : "Search Blood Group",
+
+
+    "radiusfilter_selectRadius" : "Selected Radius:",
+    "radiusfilter_km"  : "Km",
+
+
+    "selectGender_male" : "Male",
+    "selectGender_female" : "Female",
+
+
+    "donationVerification_weight" : "Weight",
+    "donationVerification_weightStatement" : "Your Weigh atleast [50 kg] to donate blood.",
+    "donationVerification_health" : "Health",
+    "donationVerification_healthStatment" : "You can't donate blood if you have an infection, flu, or any other illness.",
+    "donationVerification_meditation" : "Medications",
+    "donationVerification_medistatment":"Inform the Requester or Blood Center about any medications you are taking.",
+    "donationVerification_timing" : "Timing",
+    "donationVerification_timingStatment" : "You can donate blood once every 3 months",
+    "donationVerification_iHaveRead" : "I have read all the Blood Donation Guidelines and accepted all the Terms & Condition"
+
+
+
+    
+
+
+    
+
+
+
+}

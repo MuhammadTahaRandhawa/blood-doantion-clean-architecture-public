@@ -1,0 +1,486 @@
+{
+    "splash_largeButton": "شروع کریں",
+    "splash_loginButtonText1": "پہلے سے ہی اکاؤنٹ ہے؟",
+    "splash_loginButtonText2": "لاگ ان کریں",
+    "splash_slider1title": "خون دیں، زندگیں بچائیں!",
+    "splash_slider1content": "آئی ڈونیٹ لائف 🩸 میں خوش آمدید، یہ ایک موبائل ایپ ہے جو خون کے عطیہ دہندگان کو ضرورت مندوں سے جوڑتی ہے",
+    "splash_slider2title": "آپ کا خون، کسی کی زندگی",
+    "splash_slider2content": "ہر خون کا عطیہ تین زندگیاں بچا سکتا ہے۔ اپنے  محلے کے ہیرو بنیں اور ہمارے مشن میں شامل ہوں۔",
+    "splash_slider3title": "خون کی ضرورت ہے؟ اپنے قریبی عطیہ دہندگان تلاش کریں۔",
+    "splash_slider3content": "بلڈ گروپ، مقام اور دیگر ضروریات کے مطابق مطابق عطیہ دہندگان تلاش کریں",
+    "splash_slider4title": "خون دینا محفوظ اور آسان ہے۔",
+    "splash_slider4content": "ہم آپ کو خون کے عطیہ کے عمل کے ہر مرحلے پر رہنمائی کریں گے، چاہے وہ اپوائنٹمنٹ بکنگ ہو یا اہلیت کے تقاضوں کو سمجھنا ہو",
+    "splash_slider5title": "عطیہ کریں اور سراہے جائیں",
+    "splash_slider5content": "ہم آپ کے بے لوث عمل کی قدر کرتے ہیں! خون کے ہر کامیاب عطیہ کے بعد، 🩸 آپ کو ایک ڈیجیٹل سرٹیفکیٹ کے ساتھ انعام دیتا ہے جس میں آپ کے عطیہ کے تعاون کو تسلیم کیا جاتا ہے۔",
+    "splash_slider6title": "پاکستان کا پہلا خون عطیہ ایپ، جدید ترین خصوصیات کے ساتھ",
+    "splash_slider6content": "ہمیں فخر ہے کہ ہم پاکستان کا پہلا ایسا خون عطیہ ایپ ہیں جو ایک جامع اور صارف دوست تجربہ پیش کرتا ہے",
+    "splash_slider7title": "آئیے مل کر جانیں بچائیں",
+    "splash_slider7content": "آئی ڈونیٹ لائف ایپ ڈاؤن لوڈ کریں اور بلڈ ڈونر بننے یا آسانی سے خون تلاش کرنے کے لیے آج ہی رجسٹر ہوں۔ ایک ساتھ، ہم ایک فرق لا سکتے ہیں!",
+    
+    
+    "basicInfo_Appbar" : "بنیادی معلومات",
+    "basicInfo_fullName" : "اپنا پورا نام لکھیں",
+    "basicInfo_CNIC" : "(-) بغیر CNIC لکھیں",
+    "basicInfo_PhNum" : "اپنا فون نمبر درج کریں",
+    "basicInfo_DOB" : "اپنی تاریخ پیدائش لکھیں",
+    "basicInfo_Gender" : "اپنی جنس منتخب کریں",
+    "basicInfo_Male" : "مرد ",
+    "basicInfo_female" : "عورت",
+    "basicInfo_chooseBlood" : "اپنا بلڈ گروپ منتخب کریں۔",
+    "basicInfo_BecomeDonor" : "آئی ڈیونیٹ لائف میں ڈونر بنیں",
+    "basicInfo_submitBtn" : "جاری کریں",
+
+
+    "bloodCenterApoint_appbar" : "ملاقات طے کریں ",
+    "bloodCenterApoint_fullName" : "اپنا پورا نام لکھیں",
+    "bloodCenterApoint_PhNo" : "اپنا فون نمبر درج کریں",
+    "bloodCenterApoint_BloodBags" : "خون کے تھیلے",
+    "bloodCenterApoint_case" : "معاملہ",
+    "bloodCenterApoint_SubmitBtn" : "جاری کریں",
+
+
+    "bloodCenterdetail_reportSubmit" : "رپورٹ جمع کروا دی گئی",
+    "bloodCenterdetail_SubmitError" : "رپورٹ جمع کرانے میں خرابی آ گئی",
+    "bloodCenterdetail_Name" : "نام",
+    "bloodCenterdetail_PhNo" : "فون نمبر",
+    "bloodCenterdetail_Address" : "ایڈریس",
+    "bloodCenterdetail_ScheduleAppointment" : "ملاقات طے کریں ",
+
+
+    "bloodCenterPage_NotFindCenter" : "اس وقت اس علاقے میں کوئی بلڈ سینٹر نہیں ملا",
+    "bloodCenterCard_view" : "دیکھیں",
+    "bloodCenterCard_Schedule" : "شیڈول",
+
+
+    "bloodCenterDetailInfo_RatingCaluclated" : "ریٹنگ کا حساب کیسے لگایا جاتا ہے",
+    "bloodCenterDetailInfo_RatingSolution" : "ریٹنگز آپ کے علاقے کے لوگوں کے حالیہ جائزوں پر مبنی ہیں",
+    "bloodCenterDetailInfo_OkBtn" : "ٹھیک ہے",
+    "bloodCenterDetailInfo_time" : "وقت",
+
+
+    "bloodHeader_bloodCenter" : "بلڈ سینٹر",
+    "bloodCenterMap_ErrorImage" : "نقشہ کی تصویر لوڈ نہیں ہو سکی",
+
+
+    "bloodDonationDetail_reportSubmit" : "رپورٹ جمع کروا دی گئی",
+    "bloodDonationDetail_SubmitError" : "رپورٹ جمع کرانے میں خرابی آ گئی",
+    "bloodDonationDetail_Name" : "نام",
+    "bloodDonationDetail_bloodGroup" : "بلڈ گروپ",
+    "bloodDonationDetail_PhNo" : "فون نمبر",
+    "bloodDonationDetail_address" : "ایڈریس",
+    "bloodDonationDetail_askHelp" : "مدد حاصل کریں",
+
+
+    "bloodDonationPage_NotFindDonation" : "اس وقت اس علاقے میں کوئی عطیہ نہیں ملا، اپنی تلاش کو ایڈجسٹ کرنے کی کوشش کریں",
+
+
+    "donationGuid_Guidline" : "عطیہ کی ہدایات",
+    "donationGuid_ReadCarefully" : "غور سے پڑھیں اور تمام شرائط و ضوابط کو قبول کریں",
+    "donationGuid_AgreeCont" : "ٹھیک ہے جاری رکھیں ",
+
+
+    "bloodDonationcard_view" : "دیکھیں",
+    "bloodDonationcard_AskHelp" : "مدد حاصل کریں",
+
+    "bloodDonationHeader_donorAvailable" : "موجودہ ڈونر",
+    "donationInfo_ratingCaluclated" : "ریٹنگ کا حساب کیسے لگایا جاتا ہے",
+    "donationInfo_RatingSolution" : "ریٹنگز آپ کے علاقے کے لوگوں کے حالیہ جائزوں پر مبنی ہیں",
+    "donationInfo_okBtn" :  "ٹھیک ہے",
+    "donationLocationMap_imgError" : "نقشہ کی تصویر لوڈ نہیں ہو سکی",
+
+
+    "bloodMapPage_appbar" :"بلڈ میپ",
+    "customMap_findRoute" : "رستہ تلاش کریں",
+    "customMap_viewDetail" : "تفصیلات دیکھیں",
+
+
+    "addNewReq_appBar" : "نئی درخواست",
+    "addNewReq_fullName" : "پورا نام درج کریں",
+    "addNewReq_PhNo" : "فون نمبر",
+    "addNewReq_bloodBag" : "خون کے تھیلے",
+    "addNewReq_hospital" : "ہسپتال (اختیاری)",
+    "addNewReq_chooseLocation" : "جگہ منتخب کریں",
+    "addNewReq_submitBtn" : "جاری کریں",
+
+    "bloodReqDetail_ReportSubmit" : "رپورٹ جمع کروا دی گئی",
+    "bloodReqDetail_submitError" : "رپورٹ جمع کرانے میں خرابی آ گئی",
+    "bloodReqDetail_name" :  "نام",
+    "bloodReqDetail_bloodGroup" : "بلڈ گروپ",
+    "bloodReqDetail_PhNo" : "فون نمبر",
+    "bloodReqDetail_address" : "ایڈریس",
+    "bloodReqDetail_hospital" : "ہسپتال ",
+    "bloodReqDetail_help" : "مدد",
+
+
+    "bloodReqPage_appBar" : "خون کی درخواستیں",
+    "bloodReqPage_notFindReq" : "اس علاقے میں اس وقت کوئی درخواست نہیں ملی، اپنی تلاش کو ایڈجسٹ کرنے کی کوشش کریں",
+
+
+    "mybloodReqPage_appBar" : "میری خون کی درخواستیں",
+    "mybloodReqPage_notHaveReq" : "افوہ آپ کے پاس خون کی کوئی درخواست نہیں ہے، ایک شامل کرنے کی کوشش کریں",
+
+    "selectReqLoc_selectLoc" : "درخواست کی جگہ کو منتخب کریں",
+    "selectReqLoc_done" : "مکمل",
+
+
+    "bloodReqCard_view" : "دیکھیں",
+    "bloodReqCard_select" : "منتخب کریں",
+    "bloodReqCard_help" : "مدد",
+
+
+    "bloodReqheader_newReq" : "نئی درخواستیں",
+    "bloodReqheader_myReq" : "میری درخواستیں",
+
+    
+    "maxLimChk_reachLim" : "حدِ  مِقدار پوری ہو چکی ہے",
+    "maxLimChk_twiceAReq" : "آپ دن میں صرف دو بار خون کی درخواست کر سکتے ہیں",
+    "maxLimChk_okBtn" : "ٹھیک ہے",
+
+
+    "reqInfo_calculatedRating" : "ریٹنگ کا حساب کیسے لگایا جاتا ہے",
+    "reqInfo_ratingBased" : "ریٹنگز آپ کے علاقے کے لوگوں کے حالیہ جائزوں پر مبنی ہیں",
+    "reqInfo_okBtn" : "ٹھیک ہے",
+
+
+    "reqLocMap_errorfetchImg" : "نقشہ کی تصویر لوڈ نہیں ہو سکی",
+
+
+    "reqLocInputMap_chooseloc" : "جگہ منتخب کریں",
+
+
+    "chatPage_appBar" : "بلڈ چیٹ",
+    "chatPage_noChat" : "آپ نے ابھی تک کوئی چیٹ شروع نہیں کی ہے",
+
+
+    "msgPage_reportSubmit" : "رپورٹ جمع کروا دی گئی",
+    "msgPage_submitError" : "رپورٹ جمع کرانے میں خرابی آ گئی",
+    "msgPage_sendMsg" : "بات چیت شروع کرنے کے لیے ایک پیغام بھیجیں",
+    "msgPage_typeMsg" : "...ایک پیغام ٹائپ کریں",
+    "msgPage_needHelp" : "کو آپ کی مدد کی ضرورت ہے",
+    "msgPage_willingHelp" : "آپ کی مدد کرنے کو تیار ہے",
+
+
+
+    "chatCard_you" : "آپ",
+
+
+    "donMsgBubble_askHelp" : "آپ نے مدد مانگی",
+    "donMsgBubble_imgError" : "نقشہ کی تصویر لوڈ نہیں ہو سکی",
+    "donMsgBubble_viewBtn" : "دیکھیں",
+    "donMsgBubble_helpBtn" : "مدد",
+    "donMsgBubble_wantHelp" : "آپ کی مدد کرنا چاہتا ہے",
+    "donMsgBubble_acceptDonation" : "عطیہ قبول کریں",
+
+
+    "donMsgBubble_reminder" : "یاد رکھیں ",
+    "donMsgBubble_haveAppointment" : "آپ کے ساتھ ابھی ملاقات ہے",
+
+
+
+    "faqData_qes1" : "کون خون عطیہ کر سکتا ہے؟",
+    "faqData_ans1" : "خون کا عطیہ کرنے والے کے لیے ضروری ہے: اچھی صحت مند ہو اس کی عمر 18 سال یا اس سے زیادہ ہو لیکن 60 سال سے کم جس کا وزن کم از کم 45 کلو گرام ہو جس میں ہیموگلوبن کی سطح کم از کم 12.5 جی فی ڈی ایل ہو اس نے پچھلے 3 مہینوں میں خون کا عطیہ نہیں کیا ہے۔",
+    "faqData_qes2" : "کون خون عطیہ نہیں کر سکتا؟",
+    "faqData_ans2" : "اگر کوئی شخص ان میں سے کسی بھی حالت میں مبتلا ہو تو خون کا عطیہ نہیں کرنا چاہیے: پچھلے 1 ہفتے میں سردی/بخار اینٹی بائیوٹکس یا کسی دوسری دوائی سے زیر علاج دل کے مسائل، ہائی بلڈ پریشر، مرگی، ذیابیطس (انسولین تھراپی پر)، کینسر کی تاریخ، دائمی گردے یا جگر کی بیماری، خون بہنے کے رجحانات، عصبی بیماری گزشتہ 6 مہینوں میں بڑی سرجری یا پچھلے 3 مہینوں میں معمولی سرجری یرقان یا ہیپاٹائٹس یا ہیپاٹائٹس بی یا سی وائرس کے لیے مثبتیت 3 دن سے کم پہلے دانت نکالنا یا دانتوں کی سرجری 1 سے کم مہینہ پہلے آخری عطیہ کے دوران بیہوشی کے حملے باقاعدگی سے خون کی منتقلی کے ساتھ تھراپی پر منشیات انجیکشن لگانے کے لئے سوئیاں بانٹنا/ نشے کی لت کی تاریخ مختلف شراکت داروں کے ساتھ جنسی تعلقات یا زیادہ خطرہ والے فرد کے ساتھ ایچ آئی وی کے اینٹی باڈیز کے لئے مثبت تجربہ کیا گیا کسی بھی اینڈوکرائنل مسئلہ خواتین کو عطیہ نہیں کرنا چاہئے۔ حمل کے دوران خون. وہ ڈیلیوری کے بعد 6 ماہ کے بعد عطیہ کر سکتے ہیں اور جب وہ دودھ نہیں پلا رہے ہوں تو خواتین کو خون کا عطیہ نہیں کرنا چاہئے اگر انہیں ماہواری میں شدید بہاؤ یا ماہواری میں درد ہو رہا ہو یا پچھلے 6 مہینوں میں اسقاط حمل ہو",
+    "faqData_qes3" : "کوئی کیسے یقینی بناتا ہے کہ خون مریضوں کے لیے محفوظ ہے؟",
+    "faqData_ans3" : "کچھ بیماریاں خون کی منتقلی کے ذریعے منتقل ہو سکتی ہیں۔ لہٰذا، تمام عطیہ کردہ خون کی منتقلی سے منتقل ہونے والی بیماریوں جیسے ایچ آئی وی، ہیپاٹائٹس بی، ہیپاٹائٹس سی، سیفیلس اور ملیریا کے لیے اسکریننگ کی جاتی ہے۔ یہاں تک کہ جانچ کے باوجود، بعض اوقات انفیکشنز کا پتہ نہیں چلتا ہے، حالانکہ جانچ کے بہتر طریقوں (جیسے NAT) کے ساتھ پتہ لگانے کی شرح بہت اچھی ہے۔",
+    "faqData_qes4" : "میں کتنی بار خون کا عطیہ دے سکتا ہوں؟",
+    "faqData_ans4" : "ہر تین ماہ میں ایک بار خون کا عطیہ دینا محفوظ ہے۔",
+    "faqData_qes5" : "مجھے دوبارہ عطیہ کرنے سے پہلے 3 ماہ انتظار کیوں کرنا پڑے گا؟",
+    "faqData_ans5" : "چونکہ خون میں آئرن ہوتا ہے (جو خون کے نئے سرخ خلیات بنانے کے لیے ضروری ہوتا ہے) لہٰذا ہر 3 ماہ بعد زیادہ مرتبہ خون کا عطیہ دینے سے جسم میں آئرن کی کمی اس تیزی سے ہوتی ہے جتنا کہ ہماری خوراک میں آئرن والی غذاؤں سے بنایا جا سکتا ہے۔ نتیجے کے طور پر عطیہ دہندہ لوہے کی کمی کا انیمیا پیدا کر سکتا ہے، جس کی وجہ سے وہ کمزوری اور تھکاوٹ محسوس کر سکتا ہے۔",
+    "faqData_qes6" : "خون کا عطیہ دینا کیوں ضروری ہے؟",
+    "faqData_ans6" : "خون مریضوں کے لیے زندگی بچانے والا علاج ہو سکتا ہے۔ خون کا ایک یونٹ 4 جانیں بچا سکتا ہے (اگر اسے اجزاء میں الگ کر دیا جائے)۔ صحت مند افراد کو چاہیے کہ وہ باقاعدگی سے اور رضاکارانہ طور پر خون کا عطیہ دیں تاکہ مریضوں کے لیے خون کی قلت پر قابو پایا جا سکے۔ دنیا بھر میں یہ ثابت ہو چکا ہے کہ رضاکارانہ عطیات ہر قسم کے عطیات میں سب سے محفوظ ہیں۔",
+    "faqData_qes7" : "متبادل/ہدایت یافتہ اور ادا شدہ عطیات کیوں محفوظ نہیں ہیں؟",
+    "faqData_ans7" : "متبادل عطیات وہ عطیات ہیں جن میں مریض سے کہا جاتا ہے کہ وہ اپنے لیے خون کا بندوبست کرے۔ اگر عطیہ کرنے والے اور مریض کے خون کا گروپ آپس میں مماثل ہے تو خون منتقل کیا جاتا ہے (ہدایت شدہ عطیات)۔ اگر وہ مماثل نہیں ہیں تو، خون کا ذخیرہ کیا جاتا ہے اور ایک گروپ میچ خون جاری کیا جاتا ہے (متبادل عطیات)۔ متبادل عطیات میں رضاکارانہ عطیات کے مقابلے میں منتقلی کے قابل منتقلی انفیکشن کی شرح زیادہ ہوتی ہے۔ ادا شدہ عطیات انتہائی غیر محفوظ ہیں کیونکہ وہ عام طور پر لوگوں کی طرف سے غلط مقاصد کے لیے دیے جاتے ہیں (مثلاً منشیات کے عادی افراد) اور ان میں منتقلی کے قابل منتقلی انفیکشن کی شرح بہت زیادہ ہوتی ہے۔ یہاں تک کہ دستیاب جانچ کے جدید ترین طریقے بھی ایسے انفیکشن کا پتہ لگانے میں ناکام ہو سکتے ہیں۔ لہذا، یہ ضروری ہے کہ گمنام عطیہ دہندگان کی طرف سے رضاکارانہ عطیات، پرہیزگاری وجوہات کی بناء پر فروغ دیے جائیں۔",
+    "faqData_qes8" : "اگر میں خون کے عطیہ کے دوران بیہوش ہو جاؤں؟",
+    "faqData_ans8" : "ایسا ہونے کا امکان کم سے کم ہے۔ آپ کو عطیہ کرنے سے پہلے کھانا اور اضافی سیال پینا چاہیے، خاص طور پر عطیہ کے بعد۔",
+    "faqData_qes9" : "کیا خون کا عطیہ دینے سے تکلیف ہوگی؟",
+    "faqData_ans9" : "خون دینا تکلیف دہ نہیں ہے۔ جب سوئی ڈالی جاتی ہے تو آپ کو چبھن محسوس ہوسکتی ہے، جو صرف چند سیکنڈ تک رہتی ہے۔",
+    "faqData_qes10" : "کیا میں کثرت سے چندہ دینے سے کمزور ہو جاؤں گا؟",
+    "faqData_ans10" : "نہیں، ہر 3 ماہ میں ایک بار خون کا عطیہ دینا بالکل صحت مند ہے۔",
+    "faqData_qes11" : "اگر میں خون کا عطیہ دوں تو کیا مجھے ایڈز ہو جائے گا؟",
+    "faqData_ans11" : "بالکل نہیں! خون جمع کرنے کے لیے استعمال ہونے والے تمام آلات جراثیم سے پاک ہیں۔ یہ اشیاء ایک بار استعمال ہوتی ہیں اور ضائع کردی جاتی ہیں۔",
+    "faqData_qes12" : "خون کے اجزاء کیا ہیں اور ان کا استعمال کیسے کیا جاتا ہے؟",
+    "faqData_ans12" : "خون میں چار اجزاء ہوتے ہیں: خون کے سرخ خلیے، خون کے سفید خلیے، پلیٹ لیٹس اور پلازما۔ خون کے سرخ خلیے جسم کے مختلف حصوں کو آکسیجن فراہم کرتے ہیں۔ خون کے سفید خلیے بیماری یا انفیکشن سے لڑتے ہیں۔ پلازما میں غذائی اجزاء، جمنے کے عوامل اور خامرے ہوتے ہیں۔ پلیٹ لیٹس خون کو جمنے میں مدد کرتے ہیں تاکہ زیادہ خون بہنے سے بچ سکے۔ آج، ڈاکٹر مریض کی ضروریات کی بنیاد پر خون کے انفرادی اجزاء منتقل کرتے ہیں۔ مریضوں کی ضروریات کے بڑے زمرے میں شامل ہیں: کینسر کی تھراپی، اعضاء کی پیوند کاری، حادثے کا شکار ہونے والے اور انتخابی جراحی کے طریقہ کار سے گزرنے والے افراد۔",
+    "faqData_qes13" : "خون کب تک ذخیرہ کیا جا سکتا ہے؟",
+    "faqData_ans13" : "سرخ خلیے - 35 دن پلیٹلیٹس - 5 دن تازہ منجمد پلازما - 1 سال",
+    "faqData_qes14" : "خون دینے میں کتنا وقت لگتا ہے؟",
+    "faqData_ans14" : "عام طور پر صرف ایک گھنٹہ۔",
+    "faqData_qes15" : "کون سا بلڈ گروپ کس بلڈ گروپ کو عطیہ کر سکتا ہے؟",
+    "faqData_ans15" : "O-: یونیورسل ڈونر (تمام بلڈ گروپس کو عطیہ کر سکتا ہے: O-, O+, A-, A+, B-, B+, AB-, AB+)\nO+: O+, A+, B+, AB+ کو عطیہ کر سکتے ہیں۔\nA-: A-, A+, AB-, AB+ کو عطیہ کر سکتے ہیں۔\nA+: A+, AB+ کو عطیہ کر سکتے ہیں۔\nB-: B-, B+, AB-, AB+ کو عطیہ کر سکتے ہیں۔\nB+: B+, AB+ کو عطیہ کر سکتے ہیں۔\nAB-: AB- اور AB+ کو عطیہ کر سکتے ہیں۔\nAB+: یونیورسل وصول کنندہ (صرف AB+ کو عطیہ دے سکتا ہے)",
+    "faqData_qes16" : "کون سا بلڈ گروپ کس بلڈ گروپ سے حاصل کر سکتا ہے؟",
+    "faqData_ans16" : "O-: صرف O- سے وصول کر سکتے ہیں\nO+: O- اور O+ سے وصول کر سکتے ہیں۔\nA-: O- اور A- سے وصول کر سکتے ہیں\nA+: O-, O+, A-, A+ سے وصول کر سکتے ہیں۔\nB-: O- اور B- سے وصول کر سکتے ہیں\nB+: O-, O+, B-, B+ سے وصول کر سکتے ہیں۔\nAB-: O-، A-، B-، AB- سے وصول کر سکتے ہیں\nAB+: یونیورسل وصول کنندہ (خون کی تمام اقسام سے وصول کر سکتا ہے: O-, O+, A-, A+, B-, B+, AB-, AB+)",
+
+
+    "faqData_appBar" : "عمومی سوالات",
+
+    "homeTop_welcome" : "خوش آمدید" ,
+    "homeTop_donatingGood" : "خون کا عطیہ دینے والے کے جسم کے لیے بھی اچھا ہے۔",
+
+
+    "tutorial_appBar" : "خون کا عطیہ دینے کا طریقہ",
+    "tutorial_donationSteps" : "خون کے عطیہ کے اقدامات",
+    "tutorial_donationStep1" : "یقینی بنائیں کہ آپ اہلیت کے معیارات پر پورا اترتے ہیں۔ .1",
+    "tutorial_donationStep2" : "2. عطیہ کرنے سے پہلے کافی مقدار میں پانی پئیں اور صحت بخش کھانا کھائیں۔",
+    "tutorial_donationStep3" : "3. عطیہ مرکز میں ایک درست ID لائیں۔",
+    "tutorial_donationStep4" : "4. صحت سے متعلق سوالنامہ اور جسمانی جانچ مکمل کریں۔",
+    "tutorial_donationStep5" : "5. خون کا عطیہ دیں (تقریباً 10 منٹ لگتے ہیں)۔",
+    "tutorial_donationStep6" : "6. چند منٹ کے لیے چندہ مرکز میں آرام کریں۔",
+    "tutorial_donationStep7" : "7. فراہم کردہ ریفریشمنٹ اور اسنیکس کا لطف اٹھائیں۔",
+    "tutorial_donationStep8" : "8. اگلے 24 گھنٹوں کے لیے کافی مقدار میں سیال پییں۔",
+    "tutorial_donationStep9" : "9. دن کے باقی حصوں میں سخت سرگرمیوں اور بھاری وزن اٹھانے سے گریز کریں۔",
+    "tutorial_donationStep10" : "10. پٹی کو چند گھنٹوں کے لیے رکھیں اور بھاری اٹھانے کے لیے عطیہ بازو کے استعمال سے گریز کریں۔",
+    "tutorial_donationStep11" : "11. اگر آپ کو ہلکا سر یا چکر آتا ہے، تو اس وقت تک بیٹھیں یا لیٹیں جب تک آپ بہتر محسوس نہ کریں۔",
+    "tutorial_donationStep12" : "12. اگر آپ کو کوئی غیر معمولی علامات محسوس ہوتی ہیں تو عطیہ مرکز سے رابطہ کریں۔",
+
+
+    "aboutUser_noImg" : "کوئی تصویرنہیں",
+    "aboutUser_msg" : "پیغام",
+
+
+    "certificatePage_certificate" : "یہ رہا آپ کا سرٹیفکیٹ",
+    "certificatePage_appBar" : "بلڈ ڈونیشن سرٹیفکیٹ",
+    "certificatePage_gotCertificate" : "آپ کو سرٹیفکیٹ مل گیا ہے",
+    "certificatePage_certificateOf" : "کی سند",
+    "certificatePage_savingContribution" : "زندگی بچانے کا تعاون",
+    "certificatePage_selfnessContibutionq" : "آپ کا بے لوث تعاون زندگیاں بچانے میں مدد کرتا ہے اور ضرورت مندوں کے لیے امید لاتا ہے۔ فرق کرنے کے لیے آپ کے عزم کا شکریہ",
+    "certificatePage_iDonateLife" : "iDonate Life",
+    "certificatePage_bloodDonation" : "خون کا عطیہ",
+    "certificatePage_date" : " تاریخ",
+    "certificatePage_share" : "بانٹیں",
+
+
+
+    
+    "userProfile_dataUpdate" : "آپ کا ڈیٹا کامیابی سے اپ ڈیٹ ہو گیا ہے",
+    "userProfile_myProfile" : "میری پروفائل",
+    "userProfile_name" : "نام",
+    "userProfile_phNo" : "فون نمبر",
+    "userProfile_dob" : "تاریخ پیدائش",
+    "userProfile_gender" : "صنف",
+    "userProfile_male" : "مرد",
+    "userProfile_female" : "عورت",
+    "userProfile_bGroup" : "بلڈ گروپ",
+    "userProfile_imgSource" : "تصویر کا ذریعہ منتخب کریں",
+    "userProfile_camera" : "کیمرہ",
+    "userProfile_gallery" : "گیلری",
+
+
+
+    
+    "userToggle_contactInfo" : "رابطہ کی معلومات",
+    "userToggle_email" : "ای میل",
+    "userToggle_phNo" : "فون نمبر",
+    "userToggle_basicinfo" : "بنیادی معلومات",
+    "userToggle_dob" : "تاریخ پیدائش",
+    "userToggle_gender" : "صنف",
+    "userToggle_moreInfo" : "مزید معلومات",
+    "userToggle_address" : "پتہ",
+    "userToggle_bGroup" : "بلڈ گروپ",
+
+
+
+    "reviewToggle_allRating" : "مجموعی جائزہ",
+    "reviewToggle_baseOn" : "کی بنیاد پر",
+    "reviewToggle_reviews" : "جائزے",
+
+
+    "toggleprofile_about_me" : "میرے بارے میں",
+    "toggleprofile_about_user" : "صارف کے بارے میں",
+    "toggleprofile_userJourney" : "صارف کا تجربہ",
+    "toggleprofile_reviews" : "جائزے",
+
+
+    "toggleProView_pageNotExist" : "صفحہ موجود نہیں ہے۔",
+
+
+
+    "userJourney_appDate" : "ملاقات کی تاریخ",
+    "userJourney_participantName" :"حصہ لینے والے کا نام",
+    "userJourney_bGroup" : "بلڈ گروپ",
+    "userJourney_appType" : "ملاقات کی قسم",
+    "userJourney_youDonateBlood" : "آپ نے خون کا عطیہ دیا۔",
+    "userJourney_requestfrom" : "آپ نے خون مانگا تھا۔",
+
+
+    "notSetting_appBar" : "نوٹیفکیشن سیٹنگز",
+
+        
+    "settingsType_notifcation" : "نوٹیفکیشن",
+    "settingsType_msgAppointment" : "پیغامات، ملاقاتیں",
+    "settingsType_theme" : "تھیم",
+    "settingsType_availableAsDonor":"آپ ڈونر کے طور پر دستیاب ہیں",
+    "settingsType_appLanguage" : "ایپ کی زبان",
+    "settingsType_contactUs" : "ہم سے رابطہ کریں",
+    "settingsType_chooseTheme" : "تھیم کا انتخاب کریں",
+    "settingsType_light" : "روشنی",
+    "settingsType_dark" : "اندھیرا",
+    "settingsType_deviceTheme" : "ڈیوائس کرنٹ",
+    "settingsType_chooseAppLanguage":"ایپ کی زبان کا انتخاب کریں۔",
+    "settingsType_english" : "انگریزی",
+    "settingsType_urdu" : "اردو",
+
+
+    "setting_appBar" : "سیٹنگز",
+
+
+    "notSettingTile_notifcation" : "نوٹیفکیشن",
+
+
+
+    "forgetPassPage_forgetPass" : "پاس ورڈ یاد نہیں",
+    "forgetPassPage_emailForReset" : "پاس ورڈ دوبارہ ترتیب دینے کے لیے براہ کرم اپنا ای میل درج کریں",
+    "forgetPassPage_yourEmail" : "آپ کا ای میل",
+    "forgetPassPage_resetPass" : "پاس ورڈ ری سیٹ",
+
+
+
+    "loginPage_signAs" : "داخل ہوں بطور",
+    "loginPage_email" : "ای میل",
+    "loginPage_pass" : "پاس ورڈ",
+    "loginPage_forgetPass" : "پاسورڈ بھول گے؟",
+    "loginPage_logInBtn" : "لاگ ان",
+    "loginPage_or" : "یا",
+
+
+
+
+    
+    "newPassPage_resetComplete" : "پاس ورڈ ری سیٹ مکمل ہو گیا۔",
+    "newPassPage_setNewPass" : "نیا پاس ورڈ سیٹ کریں۔",
+    "newPassPage_differPrevious" : "نیا پاس ورڈ بنائیں۔ یقینی بنائیں کہ یہ سیکورٹی کے لیے پچھلے سے مختلف ہے۔",
+    "newPassPage_password" : "پاس ورڈ",
+    "newPassPage_enterNewPass" : "نیا پاس ورڈ درج کریں",
+    "newPassPage_confirmPass" : "پاس ورڈ کی تصدیق کریں۔",
+    "newPassPage_reEnterPass" : "پاس ورڈ دوبارہ درج",
+    "newPassPage_passMustMatch" : "پاس ورڈ مماثل ہونا ضروری ہے",
+    "newPassPage_updatePass" : "پاس ورڈ اپ ڈیٹ ",
+
+
+
+    "signupPage_email" : "ای میل",
+    "signupPage_pass" : "پاس ورڈ",
+    "signupPage_signupBtn" : "سائن اپ",
+    "signupPage_alreadyAccount" : "پہلے سے ہی اکاؤنٹ ہے؟",
+    "loginPage_alreadyAccount" : "ابھی تک اکاؤنٹ نہیں ہے؟",
+
+
+
+    "verifyCode_chkEmail" : "اپنا ای میل چیک کریں۔",
+    "verifyCode_sentLink" : "ہم نے ایک ری سیٹ لنک بھیجا",
+    "verifyCode_enterCode" : "ای میل میں مذکور 5 ہندسوں کا کوڈ درج کریں۔",
+    "verifyCode_verifyCode" : "کوڈ کی تصدیق کریں",
+
+
+
+
+    
+    "apponitDetail_no" : "نہیں ہے ",
+    "apponitDetail_name" : "نام",
+    "apponitDetail_phNo" : "فون نمبر",
+    "apponitDetail_bGroup" : "بلڈ گروپ",
+    "apponitDetail_bloodBags" : "خون کے تھیلے",
+
+
+
+    "myappointment_appBar" : "میرے ملاقاتیں",
+
+
+    
+     "bloodAppointCard_userName" : "یوزر کا نام",
+     "bloodAppointCard_viewDetail" : "تفصیلات دیکھیں",
+
+
+     
+    "myAppointmentHome_myApp" : "میری ملاقاتیں",
+    "myAppointmentHome_viewMoreBtn" : "مزید دیکھیں",
+    "myAppointmentHome_noApponitment" : "آج کے لیے کوئی ملاقاتیں نہیں ہیں۔",
+    "appointments_page_noAppointment" : "اس سیکشن میں کوئی ملاقات نہیں",
+    "myAppointmentHome_no" : "نہیں",
+    "myAppointmentHome_yes" : "جی ہاں",
+    "myAppointmentHome_haveDonate" : "کیا آپ نے خون کا عطیہ دیا ہے",
+    "myAppointmentHome_received" : "کیا آپ کو خون ملا ہے",
+
+
+
+    
+    "toogleAppointStatus_pending" : "غیر حتمی",
+    "toogleAppointStatus_approve" : "منظورشدہ",
+    "toogleAppointStatus_inProgress" : "جاری ہے",
+    "toogleAppointStatus_complete" : "مکمل",
+    "toogleAppointStatus_cancelled" : "منسوخ",
+    
+
+
+
+    "commentpage_comnt" : "کمنٹس",
+    "commentpage_writecomment" : "اپنی رائے لکھیں",
+
+
+    "bottmnav_home" : "ہوم",
+    "bottmnav_request" : "درخواست",
+    "bottmnav_donation" : "عطیات",
+    "bottmnav_center" : "مرکز",
+    "bottmnav_map" : "نقشہ",
+    "bottmnav_bloodMap" : "بلڈ میپ",
+
+
+
+
+    
+    "appDrawer_noImg" : "کوئی تصویرنہیں",
+    "appDrawer_profile" : "پروفائل",
+    "appDrawer_faq" : "عمومی سوالات",
+    "appDrawer_setting" : "سیٹنگز",
+    "appDrawer_appTutorial" : "ٹیوٹوریل",
+    "appDrawer_certificate" : "سرٹیفیکیٹ",
+    "appDrawer_logOut" : "لاگ آوٹ",
+    "appDrawer_logOutfrom" : "آئی ڈونیٹ لائف سے لاگ آؤٹ کریں۔",
+    "appDrawer_sureToLogout" : "کیا آپ واقعی لاگ آؤٹ کرنا چاہتے ہیں؟",
+    "appDrawer_no" : "نہیں",
+    "appDrawer_yes" : "جی ہاں",
+
+
+
+    
+    "reportPopBtn_report" : "رپورٹ",
+    "reportPopBtn_viewProfile" : "پروفائل دیکھیں",
+    "reportPopBtn_selectreport" : "رپورٹ کی قسم منتخب کریں",
+    "reportPopBtn_cancle" : "منسوخ کریں",
+    "reportPopBtn_ok" : "ٹھیک ہے",
+
+
+
+    "bloodShimmer_loading" : "...لوڈ ہو رہا ہے",
+    "bloodShimmer_plzWait" : "برائے مہربانی انتظار کریں",
+
+    
+    "bloodFilter_searchInside" : "ریڈیئس کے اندر تلاش کریں",
+    "bloodFilter_searchBlood" : "بلڈ گروپ منتخب کریں",
+
+
+
+    "radiusfilter_selectRadius" : "رداس سلیکٹڈ کریں",
+    "radiusfilter_km"  : "کلومیٹر",
+
+
+
+
+    
+    "selectGender_male" : "مرد",
+    "selectGender_female" : "عورت",
+
+
+    "donationVerification_weight" : "وزن",
+    "donationVerification_weightStatement" : "خون کا عطیہ دینے کے لیے آپ کا وزن کم از کم [50 کلوگرام] ہے۔",
+    "donationVerification_health" : "صحت",
+    "donationVerification_healthStatment" : "اگر آپ کو انفیکشن، فلو، یا کوئی اور بیماری ہے تو آپ خون کا عطیہ نہیں کر سکتے۔",
+    "donationVerification_meditation" : "ادویات",
+    "donationVerification_medistatment":"آپ جو بھی دوائیں لے رہے ہیں اس کے بارے میں درخواست کنندہ یا بلڈ سینٹر کو مطلع کریں۔",
+    "donationVerification_timing" : "ٹائمنگ",
+    "donationVerification_timingStatment" : "آپ ہر 3 ماہ میں ایک بار خون کا عطیہ دے سکتے ہیں۔",
+    "donationVerification_iHaveRead" : "میں نے خون کے عطیہ کے تمام رہنما خطوط پڑھ لیے ہیں اور تمام شرائط و ضوابط کو قبول کر لیا ہے۔"
+
+
+
+
+}
