@@ -15,26 +15,20 @@ to predict blood demand and supply trends and expanding the platform to support 
 donations. This project not only improves the efficiency of blood donation systems but also
 fosters a sense of community and support.
 
-Authentication and Authorization ![image](https://github.com/MuhammadTahaRandhawa/blood-doantion-clean-architecture-public/assets/121721581/d3315a9d-c81e-4a0c-b559-a3ca3bbf564a)
+![image](https://github.com/MuhammadTahaRandhawa/blood-doantion-clean-architecture-public/assets/121721581/d3315a9d-c81e-4a0c-b559-a3ca3bbf564a)
 ![image](https://github.com/MuhammadTahaRandhawa/blood-doantion-clean-architecture-public/assets/121721581/fe4b6b28-9137-4675-85db-f787338e7efa)
 
-Profile Management Module ![image](https://github.com/MuhammadTahaRandhawa/blood-doantion-clean-architecture-public/assets/121721581/9dae45a0-c7c9-4187-ad95-b13f0493a070)
+![image](https://github.com/MuhammadTahaRandhawa/blood-doantion-clean-architecture-public/assets/121721581/9dae45a0-c7c9-4187-ad95-b13f0493a070)
 ![image](https://github.com/MuhammadTahaRandhawa/blood-doantion-clean-architecture-public/assets/121721581/0164c9e4-6b75-46f3-8aac-5eeb91fb05d5)
 
-Multilingual Support ![image](https://github.com/MuhammadTahaRandhawa/blood-doantion-clean-architecture-public/assets/121721581/cd1eeb3c-38cf-495a-824a-0f00d41af3f4)
+![image](https://github.com/MuhammadTahaRandhawa/blood-doantion-clean-architecture-public/assets/121721581/cd1eeb3c-38cf-495a-824a-0f00d41af3f4)
 ![image](https://github.com/MuhammadTahaRandhawa/blood-doantion-clean-architecture-public/assets/121721581/5dd73510-b45b-45e4-92a0-cd2f169b53dd)
 
-Dark Mode Support ![image](https://github.com/MuhammadTahaRandhawa/blood-doantion-clean-architecture-public/assets/121721581/9fdcba6a-a4b3-442b-b610-500c340968c6)
+![image](https://github.com/MuhammadTahaRandhawa/blood-doantion-clean-architecture-public/assets/121721581/9fdcba6a-a4b3-442b-b610-500c340968c6)
 ![image](https://github.com/MuhammadTahaRandhawa/blood-doantion-clean-architecture-public/assets/121721581/371ff36f-9565-40a6-a0cd-f31e16a32788)
 
-Other modules![image](https://github.com/MuhammadTahaRandhawa/blood-doantion-clean-architecture-public/assets/121721581/3ddfa12a-32a3-4d1d-ac7d-00a92efa31be)
-Chat Module
-Blood Map 
-Notification System
-Feedback and Review
-FAQ Section
-In App Tutorial
-Social Sharing and Blood Journey
+![image](https://github.com/MuhammadTahaRandhawa/blood-doantion-clean-architecture-public/assets/121721581/3ddfa12a-32a3-4d1d-ac7d-00a92efa31be)
+
 ![image](https://github.com/MuhammadTahaRandhawa/blood-doantion-clean-architecture-public/assets/121721581/d78236e8-5b5f-4590-93fb-b23305a6fec3)
 ![image](https://github.com/MuhammadTahaRandhawa/blood-doantion-clean-architecture-public/assets/121721581/5a29a3cb-85cf-40f2-9e44-9f14a0179b6c)
 
